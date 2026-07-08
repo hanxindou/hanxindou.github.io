@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: 首页
 permalink: /
 subtitle: 南京航空航天大学 <b>计算机技术</b> 硕士
 # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
