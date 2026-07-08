@@ -1,0 +1,30 @@
+- id: floating
+  title: 浮生集
+  subtitle: 人生天地间，忽如远行客。
+  years: 2023–2024
+  description: >
+    大学时期创作的作品，
+    记录成长、求学、山河与四季。
+
+  cover: floating.jpg
+
+- id: mountains
+  title: 山河集
+  subtitle: 山河仍在，岁月无声。
+  years: 2025
+
+  description: >
+    研究生阶段创作。
+
+  cover: mountains.jpg
+
+- id: unnamed
+  title: 未名集
+  subtitle: 持续创作中……
+
+  years: 2026–
+
+  description: >
+    尚未结集的新作品。
+
+  cover: unnamed.jpg
